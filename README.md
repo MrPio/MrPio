@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MrPio
-- 👀 I’m interested in programming
+- 👀 I’m mainly interested in mobile programming
 - 🌱 I’m currently learning Flutter framework
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me valeriomorelli50@gmail.com
