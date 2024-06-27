@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Valerio Morelli
 - I have a degree in computer engineering from the Polytechnic University of Ancona (Italy)
+- See my CV <a href="https://github.com/user-attachments/files/16021538/Valerio.Morelli.-.Curriculum.Vitae.pdf"><b>here</b></a>
 - See some of my notes <a href="https://github.com/MrPio/UNI-Notes"><b>here</b></a>
 - I have worked with:
 
