@@ -2,7 +2,7 @@
 
 I have a bachelor's degree in computer engineering. from the Polytechnic University of Ancona (Italy)
 
-### [📄 Curriculum Vitae](https://github.com/user-attachments/files/16922316/Valerio.Morelli.-.Curriculum.Vitae.pdf)
+### [📄 Curriculum Vitae](https://github.com/user-attachments/files/17174121/Valerio.Morelli.-.Curriculum.Vitae.Signed.pdf)
 #### [📒 Some of my notes](https://github.com/MrPio/UNI-Notes)
 
 I have worked with:
