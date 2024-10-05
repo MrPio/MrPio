@@ -26,4 +26,4 @@ MrPio/MrPio is a ✨ special ✨ repository because its `README.md` (this file) 
 You can click the Preview link to take a look at your changes.
 --->
 
-By the way, have you noticed that some of my followers have a README very similar to this one? Yep, they're all copycats!
+By the way, have you noticed that some of my followers have a README very similar to this one? **Yep, they're all copycats!**
