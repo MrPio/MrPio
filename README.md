@@ -22,10 +22,4 @@ What I plan on learning:
 
 <img src="https://github.com/MrPio/MrPio/assets/22773005/97920227-b04f-4b5b-8596-d143e69c29e1" height="60rem" title="Unreal Engine"> <img src="https://www.svgrepo.com/show/353912/ionic-icon.svg" height="60rem" title="Ionic"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/2048px-Electron_Software_Framework_Logo.svg.png" height="60rem" title="Electron"> <img src="https://www.geekandjob.com/uploads/wiki/5fd2279663a119d26b5924521938d9eb.png" height="60rem" title="Apache Cordova"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1915px-Tensorflow_logo.svg.png" height="60rem" title="TensorFlow">  <img src="https://www.raspberryitaly.com/wp-content/uploads/2015/04/Arch-linux-logo.png" height="60rem" title="Arch Linux">
 
-- I am interested in working on projects.
-<!---
-MrPio/MrPio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 *By the way, have you noticed that some of my followers have a README that is very similar to this one? A bit of a coincidence, don't you think?*
