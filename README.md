@@ -60,17 +60,6 @@ I have a B.Sc. with ***110 cum Laude and Distinction*** in Computer Engineering 
   <img src="https://github.com/user-attachments/assets/42423133-7084-4027-97f5-0fde71cdd5b7" height="60rem" title="Adobe Premiere Pro CC">
 </div>
 
-#### Databases:
-<div>
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" height="60rem" title="MySQL">
-  <img src="https://github.com/user-attachments/assets/b002ef28-9e6a-4252-b6e8-c424c7aec6f9" height="60rem" title="SQLite">
-  <img src="https://www.geekandjob.com/uploads/wiki/5f6231ac011726c714dfa5bad0c05c4a4c8ad8c4.png" height="60rem" title="Redis">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" height="60rem" title="PostgreSQL">
-  <img src="https://cdn.worldvectorlogo.com/logos/hadoop.svg" height="60rem" title="Hadoop">
-  <img src="https://github.com/user-attachments/assets/0a937d89-a5c5-4190-96c0-3312c97a67c4" height="60rem" title="Firestore">
-  <img src="https://github.com/user-attachments/assets/214a1ed4-f427-42ac-81c5-b480c53ae6a8" height="60rem" title="Realtime Database">
-</div>
-
 #### Web services:
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Firebase_Logo_%28No_wordmark%29_%282024-%29.svg" height="60rem" title="Firebase">
@@ -83,15 +72,28 @@ I have a B.Sc. with ***110 cum Laude and Distinction*** in Computer Engineering 
   <img src="https://github.com/user-attachments/assets/445f0e5d-3f49-4854-8d41-0fee5d0f22bd" height="60rem" title="Google Play Console">
 </div>
 
+#### Databases:
+<div>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" height="60rem" title="MySQL">
+  <img src="https://github.com/user-attachments/assets/b002ef28-9e6a-4252-b6e8-c424c7aec6f9" height="60rem" title="SQLite">
+  <img src="https://www.geekandjob.com/uploads/wiki/5f6231ac011726c714dfa5bad0c05c4a4c8ad8c4.png" height="60rem" title="Redis">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" height="60rem" title="PostgreSQL">
+  <img src="https://cdn.worldvectorlogo.com/logos/hadoop.svg" height="60rem" title="Hadoop">
+  <img src="https://github.com/user-attachments/assets/0a937d89-a5c5-4190-96c0-3312c97a67c4" height="60rem" title="Firestore">
+  <img src="https://github.com/user-attachments/assets/214a1ed4-f427-42ac-81c5-b480c53ae6a8" height="60rem" title="Realtime Database">
+</div>
+
+
+<!--
 #### OS:
 <div>
   <img src="https://github.com/user-attachments/assets/241f38d5-0ac7-46b8-8e11-42b90812c4cb" height="60rem" title="Windows">
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" height="60rem" title="Ubuntu">
   <img src="https://github.com/user-attachments/assets/f1b66b25-9068-4596-9943-6d728eb6d277" height="60rem" title="LinuxLite">
   <img src="https://github.com/user-attachments/assets/e4b2f09d-df90-4d63-a714-db30c2b65d4e" height="60rem" title="Kali Linux">
-</div>
+</div>-->
 
----
+<!--
 ### What I plan on learning:
 
 <div>
@@ -100,6 +102,7 @@ I have a B.Sc. with ***110 cum Laude and Distinction*** in Computer Engineering 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Electron_Software_Framework_Logo.svg/2048px-Electron_Software_Framework_Logo.svg.png" height="60rem" title="Electron">
   <img src="https://www.geekandjob.com/uploads/wiki/5fd2279663a119d26b5924521938d9eb.png" height="60rem" title="Apache Cordova"> 
   <img src="https://www.raspberryitaly.com/wp-content/uploads/2015/04/Arch-linux-logo.png" height="60rem" title="Arch Linux">
-</div>
+</div>-->
 
+---
 *By the way, have you noticed that some of my followers have a README that is very similar to this one? A bit of a coincidence, don't you think?*
