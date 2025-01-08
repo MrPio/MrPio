@@ -12,7 +12,7 @@ I have a B.Sc. with ***110 cum Laude and Distinction*** in Computer Engineering 
   <img src="https://github.com/user-attachments/assets/774b34a3-5ac2-4272-8955-57bf0cb2763b" height="60rem" title="Python">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" height="60rem" title="Java">
   <img src="https://github.com/user-attachments/assets/39eb95c4-22e8-4f47-b345-14395d55c771" height="60rem" title="Kotlin">
-  <img src="https://github.com/user-attachments/assets/ce27255e-3bc8-4c33-9ee8-8ab9bdf96be8" height="60rem" title="Oz Mozart">
+  <img src="https://github.com/user-attachments/assets/133fd6d2-dc16-431e-bd93-d7f60925e65a" height="60rem" title="Oz Mozart">
   <img src="https://github.com/user-attachments/assets/77acf964-fd00-49fe-b89a-72f062e8c31e" height="60rem" title="Typescript">
   <img src="https://github.com/user-attachments/assets/c1ef5fb7-6c4d-4412-bbb3-27b866b9a5b2" height="60rem" title="Javascript">
   <img src="https://github.com/user-attachments/assets/c8c58b8a-aa9c-43af-adaf-cf4431c47c6f" height="60rem" title="PHP">
