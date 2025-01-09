@@ -105,4 +105,4 @@ I have a B.Sc. with ***110 cum Laude and Distinction*** in Computer Engineering 
 </div>-->
 
 ---
-*By the way, have you noticed that some of my followers have a README that is very similar to this one? A bit of a coincidence, don't you think?*
+*By the way, have you noticed that some of my followers have a README that is very similar to this one?* <!--*A bit of a coincidence, don't you think?*-->
