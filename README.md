@@ -79,7 +79,7 @@ I have a B.Sc. with ***110 cum Laude and Distinction*** in Computer Engineering 
   <img src="https://www.geekandjob.com/uploads/wiki/5f6231ac011726c714dfa5bad0c05c4a4c8ad8c4.png" height="60rem" title="Redis">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" height="60rem" title="PostgreSQL">
   <img src="https://cdn.worldvectorlogo.com/logos/hadoop.svg" height="60rem" title="Hadoop">
-  <img src="https://github.com/user-attachments/assets/0a937d89-a5c5-4190-96c0-3312c97a67c4" height="60rem" title="Firestore">
+  <img src="https://github.com/user-attachments/assets/e855e3ae-c733-4948-8a50-e93ad988e011" height="60rem" title="Firestore">
   <img src="https://github.com/user-attachments/assets/214a1ed4-f427-42ac-81c5-b480c53ae6a8" height="60rem" title="Realtime Database">
 </div>
 
