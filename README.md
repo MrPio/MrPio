@@ -14,6 +14,18 @@ I have a B.Sc. with ***110 cum Laude and Distinction*** in Computer Engineering 
   <a href="https://github.com/MrPio/CookieClicker-replica-"><img src="https://github.com/user-attachments/assets/9eda378a-7741-4ca1-b92d-7c804dfa4bf1" height="60rem" title="Cookie Clicker"></a>
 </div>
 
+### Take a look at my apps:
+<div>
+  <a href="https://github.com/MrPio/MuseoOmeroApp-MAUI"><img src="https://github.com/user-attachments/assets/9feca4f4-ae94-41b5-a5c1-23117d982f76" height="60rem" title="MuseoOmeroApp-MAUI"></a>
+  <a href="https://github.com/MrPio/Scheda_DnD_5e"><img src="https://github.com/user-attachments/assets/588583db-d625-4040-af8a-253d6311efbc" height="60rem" title="Scheda_DnD_5e"></a>
+  <a href="https://github.com/MrPio/Spotted-Kotlin"><img src="https://github.com/user-attachments/assets/156791bc-88ed-442d-9dbe-631037be89f4" height="60rem" title="Spotted"></a>
+  <a href="https://github.com/MrPio/The-Seagull-Story"><img src="https://github.com/user-attachments/assets/7f3d6c31-a1eb-4e27-b4f2-9139b59d5538" height="60rem" title="The-Seagull-Story"></a>
+  <a href="https://github.com/MrPio/MrPointer"><img src="https://github.com/user-attachments/assets/9acef4d7-4a75-4c50-8363-ccafbc311f3d" height="60rem" title="MrPointer"></a>
+  <a href="https://github.com/MrPio/MrPowerManagerClient"><img src="https://github.com/user-attachments/assets/d37109a2-b183-4fbc-98a5-26b607bc33c2" height="60rem" title="MrPowerManagerClient"></a>
+  <a href="https://github.com/MrPio/Intrecci-di-Passione"><img src="https://github.com/user-attachments/assets/0b1e1e7a-376b-40c4-86ca-b8bf3468e6ae" height="60rem" title="Intrecci-di-Passione"></a>
+  <a href="https://github.com/MrPio/Antiyomacy"><img src="https://github.com/user-attachments/assets/a78a21f8-f002-4094-8b4c-479d51ab309f" height="60rem" title="Antiyomacy"></a>
+</div>
+
 ---
 ### I have experience with:
 
