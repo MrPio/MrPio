@@ -5,6 +5,16 @@ I have a B.Sc. with ***110 cum Laude and Distinction*** in Computer Engineering 
 ### [📄 Curriculum Vitae](https://github.com/user-attachments/files/17531627/Valerio.Morelli.-.Curriculum.Vitae.Signed.pdf)
 #### [📒 Some of my notes](https://github.com/MrPio/UNI-Notes)
 
+### Take a look at my games:
+<div>
+  <a href="https://github.com/MrPio/FishMoney"><img src="https://github.com/user-attachments/assets/067810bc-1f5e-47ee-827e-15ab26822c56" height="60rem" title="Fish Money"></a>
+  <a href="https://github.com/MrPio/Blockstorm"><img src="https://github.com/user-attachments/assets/b25160bf-b3de-4fd7-b4ab-c0dff8d93c25" height="60rem" title="Blockstorm"></a>
+  <a href="https://github.com/MrPio/360-Naval-Onslaught"><img src="https://github.com/user-attachments/assets/19f8704f-c765-4eef-bafd-8f547ff5f288" height="60rem" title="360 Naval Onslaught"></a>
+  <a href="https://github.com/MrPio/SunnyQuest"><img src="https://github.com/user-attachments/assets/7e41eaf1-cf31-4c9e-96f0-d93a1abc4d5e" height="60rem" title="SunnyQuest"></a>
+  <a href="https://github.com/MrPio/CookieClicker-replica-"><img src="https://github.com/user-attachments/assets/9eda378a-7741-4ca1-b92d-7c804dfa4bf1" height="60rem" title="Cookie Clicker"></a>
+</div>
+
+---
 ### I have experience with:
 
 #### Programming languages:
