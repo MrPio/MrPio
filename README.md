@@ -2,7 +2,7 @@
 
 I have a B.Sc. with ***110 cum Laude and Distinction*** in Computer Engineering from the Polytechnic University of Ancona (Italy) and I'm currently enrolled in a Master's degree in Computer Engineering at the same university.
 
-### [📄 Curriculum Vitae](https://github.com/user-attachments/files/17531627/Valerio.Morelli.-.Curriculum.Vitae.Signed.pdf)
+### [📄 Curriculum Vitae](https://github.com/user-attachments/files/18718471/Valerio.Morelli.-.Curriculum.Vitae.Signed.pdf)
 #### [📒 Some of my notes](https://github.com/MrPio/UNI-Notes)
 
 ### Take a look at my games:
