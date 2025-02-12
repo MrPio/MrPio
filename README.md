@@ -6,13 +6,23 @@ I have a B.Sc. with ***110 cum Laude and Distinction*** in Computer Engineering 
 #### [📒 Some of my notes](https://github.com/MrPio/UNI-Notes)
 
 ### Take a look at my games:
-<div>
-  <a href="https://github.com/MrPio/FishMoney"><img src="https://github.com/user-attachments/assets/067810bc-1f5e-47ee-827e-15ab26822c56" height="60rem" title="Fish Money"></a>
-  <a href="https://github.com/MrPio/Blockstorm"><img src="https://github.com/user-attachments/assets/b25160bf-b3de-4fd7-b4ab-c0dff8d93c25" height="60rem" title="Blockstorm"></a>
-  <a href="https://github.com/MrPio/360-Naval-Onslaught"><img src="https://github.com/user-attachments/assets/19f8704f-c765-4eef-bafd-8f547ff5f288" height="60rem" title="360 Naval Onslaught"></a>
-  <a href="https://github.com/MrPio/PacmanQuest"><img src="https://github.com/user-attachments/assets/7e41eaf1-cf31-4c9e-96f0-d93a1abc4d5e" height="60rem" title="PacmanQuest"></a>
-  <a href="https://github.com/MrPio/CookieClicker-replica-"><img src="https://github.com/user-attachments/assets/9eda378a-7741-4ca1-b92d-7c804dfa4bf1" height="60rem" title="Cookie Clicker"></a>
-</div>
+
+<table style="width: 100%; border: none;" cellspacing="0" cellpadding="0" border="0">
+  <tr>
+    <td align="center"><a href="https://github.com/MrPio/FishMoney"><img src="https://github.com/user-attachments/assets/067810bc-1f5e-47ee-827e-15ab26822c56" height="80rem" title="Fish Money"></a></td>
+    <td align="center"><a href="https://github.com/MrPio/Blockstorm"><img src="https://github.com/user-attachments/assets/b25160bf-b3de-4fd7-b4ab-c0dff8d93c25" height="80rem" title="Blockstorm"></a></td>
+    <td align="center"><a href="https://github.com/MrPio/360-Naval-Onslaught"><img src="https://github.com/user-attachments/assets/19f8704f-c765-4eef-bafd-8f547ff5f288" height="80rem" title="360 Naval Onlaught"></a></td>
+    <td align="center"><a href="https://github.com/MrPio/PacmanQuest"><img src="https://github.com/user-attachments/assets/7e41eaf1-cf31-4c9e-96f0-d93a1abc4d5e" height="80rem" title="PacmanQuest"></a></td>
+    <td align="center"><a href="https://github.com/MrPio/CookieClicker-replica-"><img src="https://github.com/user-attachments/assets/9eda378a-7741-4ca1-b92d-7c804dfa4bf1" height="80rem" title="Cookie Clicker"></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://play.unity.com/en/games/98842023-8746-42f8-8bf1-205171d73e2c/fish-money"><img src="https://github.com/user-attachments/assets/b7ff7bff-9076-4b67-bc96-ca446499f532" width="120rem" title="Fish Money"></a></td>
+    <td align="center"></td>
+    <td align="center"><a href="https://play.unity.com/en/games/3e848b90-ba30-413f-a65e-62e459a52077/360-naval-onslaught"><img src="https://github.com/user-attachments/assets/b7ff7bff-9076-4b67-bc96-ca446499f532" width="120rem" title="Fish Money"></a></td>
+    <td align="center"><a href="https://play.unity.com/en/games/d8005ead-716d-43c7-aecb-437ca361a443/pacman-quest"><img src="https://github.com/user-attachments/assets/b7ff7bff-9076-4b67-bc96-ca446499f532" width="120rem" title="Fish Money"></a></td>
+    <td align="center"></td>
+  </tr>
+</table>
 
 ### Take a look at my apps:
 <div>
