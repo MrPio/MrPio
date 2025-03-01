@@ -2,6 +2,9 @@
 
 I have a B.Sc. with ***110 cum Laude and Distinction*** in Computer Engineering from the Polytechnic University of Ancona (Italy) and I'm currently enrolled in a Master's degree in Computer Engineering at the same university.
 
+Artificial Intelligence, with or without neural networks, is the line of research I am interested in.
+My main programming interests are Unity for game development and Flutter for mobile applications.
+
 ### [📄 Curriculum Vitae](https://github.com/user-attachments/files/18718471/Valerio.Morelli.-.Curriculum.Vitae.Signed.pdf)
 #### [📒 Some of my notes](https://github.com/MrPio/UNI-Notes)
 
@@ -44,10 +47,11 @@ I have a B.Sc. with ***110 cum Laude and Distinction*** in Computer Engineering 
   <a href="https://github.com/MrPio/Antiyomacy"><img src="https://github.com/user-attachments/assets/a78a21f8-f002-4094-8b4c-479d51ab309f" height="60rem" title="Antiyomacy"></a>
 </div>
 
+<!--
 ### Take a look at my Deviantart page:
 <div>
   <a href="https://www.deviantart.com/mrpio5/gallery/74322990/featured"><img src="https://github.com/user-attachments/assets/aab33de9-ecf3-454f-956e-562670efecd6" height="60rem" title="DeviantArt Featured"></a>
-</div>
+</div>-->
 
 
 ---
