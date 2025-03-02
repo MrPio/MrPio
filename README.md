@@ -1,6 +1,6 @@
 #### 👋 Hi, I’m Valerio Morelli
 
-I have a B.Sc. with ***110 cum Laude and Distinction*** in Computer Engineering from the Polytechnic University of Ancona (Italy) and I'm currently enrolled in a Master's degree in Computer Engineering at the same university.
+I have a B.Sc. with ***110 cum Laude and Distinction***, GPA: **29.52**/30 in Computer Engineering from the Polytechnic University of Ancona (Italy) and I'm currently enrolled in a Master's degree in Computer Engineering at the same university with a GPA of **30L**/30.
 
 Artificial Intelligence, with or without neural networks, is the line of research I am interested in.
 My main programming interests are Unity for game development and Flutter for mobile applications.
