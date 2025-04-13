@@ -112,6 +112,7 @@ My main programming interests are Unity for game development and Flutter for mob
   <img src="https://github.com/user-attachments/assets/42423133-7084-4027-97f5-0fde71cdd5b7" height="54rem" title="Adobe Premiere Pro CC">
 </div>
 
+<!--
 #### Web services:
 <div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Firebase_Logo_%28No_wordmark%29_%282024-%29.svg" height="54rem" title="Firebase">
@@ -134,7 +135,7 @@ My main programming interests are Unity for game development and Flutter for mob
   <img src="https://github.com/user-attachments/assets/e855e3ae-c733-4948-8a50-e93ad988e011" height="54rem" title="Firestore">
   <img src="https://github.com/user-attachments/assets/214a1ed4-f427-42ac-81c5-b480c53ae6a8" height="54rem" title="Realtime Database">
 </div>
-
+-->
 
 <!--
 #### OS:
