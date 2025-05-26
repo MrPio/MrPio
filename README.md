@@ -5,7 +5,7 @@ I have a B.Sc. with ***110 cum Laude and Distinction***, GPA: **29.52**/30 in Co
 Artificial Intelligence, with or without neural networks, is the line of research I am interested in.
 My main programming interests are Unity for game development and Flutter for mobile applications.
 
-### [📄 Curriculum Vitae](https://github.com/user-attachments/files/18718471/Valerio.Morelli.-.Curriculum.Vitae.Signed.pdf)
+### [📄 Curriculum Vitae](https://github.com/user-attachments/files/20442229/Valerio.Morelli.-.Curriculum.Vitae.Signed.pdf)
 #### [📒 Some of my notes](https://github.com/MrPio/UNI-Notes)
 
 ### Take a look at my games:
