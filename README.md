@@ -2,8 +2,9 @@
 
 I have a B.Sc. with ***110 cum Laude and Distinction***, GPA: **29.52**/30 in Computer Engineering from the Polytechnic University of Ancona (Italy), and I'm currently enrolled in a Master's degree in Computer Engineering at the same university with a GPA of **30**/30.
 
-Artificial Intelligence, with or without neural networks, is the line of research I am interested in.
-My main programming interests are Unity for game development and Flutter for mobile applications.
+**Computer vision is the line of research I am interested in.**
+
+My main programming interests are Unity and Blender for game development and Flutter for mobile applications.
 
 ### [📄 Curriculum Vitae](https://github.com/user-attachments/files/21313858/Valerio.Morelli.-.Curriculum.Vitae.Signed.pdf)
 #### [📒 Take a look at my notes](https://github.com/MrPio/UNI-Notes)
