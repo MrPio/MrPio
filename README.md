@@ -1,6 +1,6 @@
 #### 👋 Hi, I’m Valerio Morelli
 
-I have a B.Sc. with ***110 cum Laude and Distinction***, GPA: **29.52**/30 in Computer Engineering from the Polytechnic University of Ancona (Italy) and I'm currently enrolled in a Master's degree in Computer Engineering at the same university with a GPA of **30L**/30.
+I have a B.Sc. with ***110 cum Laude and Distinction***, GPA: **29.52**/30 in Computer Engineering from the Polytechnic University of Ancona (Italy), and I'm currently enrolled in a Master's degree in Computer Engineering at the same university with a GPA of **30**/30.
 
 Artificial Intelligence, with or without neural networks, is the line of research I am interested in.
 My main programming interests are Unity for game development and Flutter for mobile applications.
@@ -8,8 +8,8 @@ My main programming interests are Unity for game development and Flutter for mob
 ### [📄 Curriculum Vitae](https://github.com/user-attachments/files/21313858/Valerio.Morelli.-.Curriculum.Vitae.Signed.pdf)
 #### [📒 Take a look at my notes](https://github.com/MrPio/UNI-Notes)
 
-### Take a look at my games:
-
+<details>
+<summary>My videogames</summary>
 <table align="left" style="width: 100%; border: none;" cellspacing="0" cellpadding="0" border="0">
   <tr>
     <td align="center"><a href="https://github.com/MrPio/FishMoney"><img src="https://github.com/user-attachments/assets/067810bc-1f5e-47ee-827e-15ab26822c56" height="54rem" width="54rem" title="Fish Money"></a></td>
@@ -36,8 +36,10 @@ My main programming interests are Unity for game development and Flutter for mob
 <!--     <td align="center"></td> -->
   </tr>
 </table>
+</details>
 
-### Take a look at my apps:
+<details>
+<summary>My apps</summary>
 <div>
   <a href="https://github.com/MrPio/MuseoOmeroApp-MAUI"><img src="https://github.com/user-attachments/assets/9feca4f4-ae94-41b5-a5c1-23117d982f76" height="54rem" title="MuseoOmeroApp-MAUI"></a>
   <a href="https://github.com/MrPio/Scheda_DnD_5e"><img src="https://github.com/user-attachments/assets/588583db-d625-4040-af8a-253d6311efbc" height="54rem" title="Scheda_DnD_5e"></a>
@@ -49,18 +51,13 @@ My main programming interests are Unity for game development and Flutter for mob
   <a href="https://github.com/MrPio/Antiyomacy"><img src="https://github.com/user-attachments/assets/a78a21f8-f002-4094-8b4c-479d51ab309f" height="54rem" title="Antiyomacy"></a>
   <a href="https://github.com/MrPio/TraLeRighe"><img src="https://github.com/user-attachments/assets/b85baca6-1046-4f1c-8866-96e82634c57f" height="54rem" title="TraLeRighe"></a>
 </div>
-
-<!--
-### Take a look at my Deviantart page:
-<div>
-  <a href="https://www.deviantart.com/mrpio5/gallery/74322990/featured"><img src="https://github.com/user-attachments/assets/aab33de9-ecf3-454f-956e-562670efecd6" height="54rem" title="DeviantArt Featured"></a>
-</div>-->
+</details>
 
 
----
-### I have experience with:
+<details>
+<summary>My skills</summary>
 
-#### Programming languages:
+  #### Programming languages:
 <div>
   <img src="https://github.com/user-attachments/assets/774b34a3-5ac2-4272-8955-57bf0cb2763b" height="54rem" title="Python">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" height="54rem" title="Java">
@@ -157,6 +154,4 @@ My main programming interests are Unity for game development and Flutter for mob
   <img src="https://www.geekandjob.com/uploads/wiki/5fd2279663a119d26b5924521938d9eb.png" height="54rem" title="Apache Cordova"> 
   <img src="https://www.raspberryitaly.com/wp-content/uploads/2015/04/Arch-linux-logo.png" height="54rem" title="Arch Linux">
 </div>-->
-
----
-*By the way, have you noticed that some of my followers have a README that is very similar to this one?* <!--*A bit of a coincidence, don't you think?*-->
+</details>
