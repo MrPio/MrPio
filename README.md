@@ -1,6 +1,6 @@
 #### 👋 Hi, I’m Valerio Morelli
 
-I hold a B.Sc. with ***110 cum laude and Distinction***, GPA: **29.52**/30 in Computer Engineering from the Polytechnic University of Ancona (Italy), and I'm currently enrolled in a Master's degree in Computer Engineering at the same university, with a GPA of **30**/30.
+I hold a B.Sc. with ***110 cum laude and Distinction***, GPA: **29.52**/30 in Computer Engineering from the Polytechnic University of Ancona (Italy), and I'm currently enrolled in a Master's degree in Computer Engineering at the same university, with a final GPA of **30**/30.
 
 **Computer vision is the line of research I am interested in.**
 
