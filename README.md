@@ -1,12 +1,12 @@
 #### 👋 Hi, I’m Valerio Morelli
 
-I have a B.Sc. with ***110 cum Laude and Distinction***, GPA: **29.52**/30 in Computer Engineering from the Polytechnic University of Ancona (Italy), and I'm currently enrolled in a Master's degree in Computer Engineering at the same university with a GPA of **30**/30.
+I hold a B.Sc. with ***110 cum laude and Distinction***, GPA: **29.52**/30 in Computer Engineering from the Polytechnic University of Ancona (Italy), and I'm currently enrolled in a Master's degree in Computer Engineering at the same university, with a GPA of **30**/30.
 
 **Computer vision is the line of research I am interested in.**
 
 My main programming interests are Unity and Blender for game development and Flutter for mobile applications.
 
-### [📄 Curriculum Vitae](https://github.com/user-attachments/files/21313858/Valerio.Morelli.-.Curriculum.Vitae.Signed.pdf)
+### [📄 Curriculum Vitae (20/09/2025)](https://github.com/user-attachments/files/22439918/Curriculum_Vitae-3-1.pdf)
 #### [📒 Take a look at my notes](https://github.com/MrPio/UNI-Notes)
 
 <details>
