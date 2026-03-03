@@ -5,7 +5,7 @@ Other than research, my programming interests are Unity and Blender for game dev
 
 ### [📄 Curriculum Vitae (updated on December 27, 2025)](https://github.com/user-attachments/files/24694929/Valerio.Morelli.-.Curriculum.Vitae.Signed.pdf)
 
-[📘 PhD self-introduction (November 14, 2025)](https://github.com/user-attachments/files/24214171/Personal.introduction.-.Valerio.Morelli.pdf)
+[📘 Research Background (November 14, 2025)](https://github.com/user-attachments/files/24214171/Personal.introduction.-.Valerio.Morelli.pdf)
 
 [📒 Take a look at my notes](https://github.com/MrPio/UNI-Notes)
 
